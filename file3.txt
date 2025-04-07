@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 this is devops lab
+=======
+hello
+hi 
+welcome to devops
+>>>>>>> 98b046a (file3 commited)
