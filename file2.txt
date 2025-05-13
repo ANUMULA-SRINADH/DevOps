@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-hey hi
-welcome to devops
-=======
-hello
-hi
-welcome
->>>>>>> fb
